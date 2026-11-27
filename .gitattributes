@@ -1,0 +1,3 @@
+
+# third-party front-end libraries are not my code (keeps the GitHub language bar honest)
+**/wwwroot/lib/** linguist-vendored
