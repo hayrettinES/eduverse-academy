@@ -1,3 +1,5 @@
 
 # third-party front-end libraries are not my code (keeps the GitHub language bar honest)
 **/wwwroot/lib/** linguist-vendored
+# Razor views are C# templates; count them as C# instead of HTML
+*.cshtml linguist-language=C#
