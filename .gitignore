@@ -1,0 +1,15 @@
+# build output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+# local data + tools (never commit)
+*.db
+*.db-shm
+*.db-wal
+sqlite3.exe
+wwwroot/yuklenenler/
+# secrets
+appsettings.*.local.json
+.env
